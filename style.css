@@ -1,0 +1,44 @@
+body{
+    font-family: Arial;
+    margin: 20px;
+    width: 800px;
+}
+
+.topo{
+    background-color: #4A90E2;
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.principal{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.menu{
+    width: 180px;
+    height: 250px;
+    background-color: #27AE60;
+    border: 2px solid black;
+    padding: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.conteudo{
+    width: 570px;
+    height: 250px;
+    background-color: #F4D03F;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+.rodape{
+    background-color: #E74C3C;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+}
